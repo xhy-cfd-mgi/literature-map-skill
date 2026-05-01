@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Map"
+  short_description: "Map fields by papers and citations"
+  default_prompt: "Use $literature-map to build a literature map for my research topic, including seminal papers, branches, citation lineage, OA status, and a prioritized reading list."
+
+policy:
+  allow_implicit_invocation: true
